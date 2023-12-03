@@ -1,0 +1,22 @@
+{
+  "name": "com.eris.buildtools",
+  "version": "0.0.1",
+  "displayName": "Build Tools",
+  "description": "A collection of tools for building projects with Unity and Jenkins",
+  "unity": "2023.3",
+  "unityRelease": "0a16",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "Build",
+    "Jenkins",
+  ],
+  "author": {
+    "name": "Eris",
+    "email": "admin@example.com",
+    "url": "https://github.com/thejoyoferis/com.eris.buildtools"
+  }
+}
